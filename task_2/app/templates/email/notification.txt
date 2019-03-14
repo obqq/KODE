@@ -1,0 +1,9 @@
+{{ message }}
+
+You have received this email because you are subscribed to our notification service.
+If you no longer wish to receive these extremely useful, yet very infrequent emails,
+please send DELETE request to
+{{ unsubscribe_url }}
+If you want to unsubscribe from current ticker only, please send DELETE request to
+{{ unsubscribe_ticker_url }}
+Copyright © 2019 {{ company_name }}. All rights reserved.
