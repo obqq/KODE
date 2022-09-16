@@ -17,7 +17,7 @@ itsdangerous==1.1.0
 Jinja2==2.10
 jsonschema==3.0.1
 kombu==4.4.0
-Mako==1.0.7
+Mako==1.2.2
 MarkupSafe==1.1.1
 PyMySQL==0.9.3
 pyrsistent==0.14.11
